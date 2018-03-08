@@ -1,6 +1,6 @@
 Usage
 
-TestDbConnection -Server SQLServer -Database SomeDB -Username SQLUser -Password password
+TestDbConnection -Server SQLServerName -Database DatabaseName -Username SQLUsername -Password password
 
 
-TestDbConnection -Server Server1\SQLExpress -Database SomeDB -UseWindowsAuthentication
+TestDbConnection -Server ServerName\ServerType -Database DatabaseName -UseWindowsAuthentication
