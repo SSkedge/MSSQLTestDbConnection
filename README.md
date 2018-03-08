@@ -1,6 +1,6 @@
-#Usage
+Usage
 
-#Test-SQLDatabase -Server SQLServer -Database SomeDB -Username SQLUser -Password password
+TestDbConnection -Server SQLServer -Database SomeDB -Username SQLUser -Password password
 
 
-#Test-SQLDatabase -Server Server1\SQLExpress -Database SomeDB -UseWindowsAuthentication
+TestDbConnection -Server Server1\SQLExpress -Database SomeDB -UseWindowsAuthentication
