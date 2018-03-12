@@ -1,4 +1,4 @@
-Usage
+# Usage
 
 TestDbConnection -Server SQLServerName -Database DatabaseName -Username SQLUsername -Password password
 
